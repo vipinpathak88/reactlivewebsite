@@ -5,7 +5,7 @@ import About from "./About";
 import Contact from "./Contact";
 import Error from "./Error";
 
-const Appp = () => {
+const App = () => {
 
     const Name = () => {
         return <h1>Hello, i am name page</h1>
@@ -24,4 +24,4 @@ const Appp = () => {
     );
 };
 
-export default Appp;
+export default App;
